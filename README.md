@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sai__nalabothu" target="blank"><img src="https://img.shields.io/twitter/follow/sai__nalabothu?logo=twitter&style=for-the-badge" alt="sai__nalabothu" /></a> </p>
 
-- 📫 How to reach me **sailokeshnalabothu7@gmail.com**
+- 📫 How to reach me **sailokeshnalabothu@gmail.com**
 
 - ⚡ Fun fact **I once thought HTML was a programming language… now I’m building full-stack projects.**
 
